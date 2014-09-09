@@ -11,3 +11,9 @@ R           http://cran.r-project.org/
 ### R resources
 
 R cheat sheet: http://rforpublichealth.blogspot.com/2013/11/ggplot2-cheatsheet-for-scatterplots.html
+
+
+### Markdown
+
+GitHub Markdown info  https://help.github.com/articles/github-flavored-markdown  
+Markdown Cheat Sheet  http://support.mashery.com/docs/read/customizing_your_portal/Markdown_Cheat_Sheet  
