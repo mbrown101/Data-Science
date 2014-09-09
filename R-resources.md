@@ -3,8 +3,8 @@ Data-Science
 
 ### R coding
 
-SourceTree  https://www.atlassian.com/software/sourcetree/overview
-R-studio    http://www.rstudio.com/products/RStudio/
+SourceTree  https://www.atlassian.com/software/sourcetree/overview  
+R-studio    http://www.rstudio.com/products/RStudio/  
 R           http://cran.r-project.org/
 
 
