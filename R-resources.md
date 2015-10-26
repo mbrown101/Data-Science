@@ -20,11 +20,11 @@ Markdown Cheat Sheet  http://support.mashery.com/docs/read/customizing_your_port
 
 ### Mapping
 
-R user group of Milano -- mapping:  http://www.milanor.net/blog/?p=534
-ggmap QuickStart: https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/ggmap/ggmapCheatsheet.pdf
-Displaying maps and Geospatial Data  http://www.unomaha.edu/mahbubulmajumder/data-science/fall-2014/lectures/06-display-spatial-data/06-display-spatial-data.html#/
+R user group of Milano -- mapping:  http://www.milanor.net/blog/?p=534  
+ggmap QuickStart: https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/ggmap/ggmapCheatsheet.pdf  
+Displaying maps and Geospatial Data  http://www.unomaha.edu/mahbubulmajumder/data-science/fall-2014/lectures/06-display-spatial-data/06-display-spatial-data.html#/  
 
 
 ### Shiny App
 
-http://shiny.rstudio.com/
+http://shiny.rstudio.com/  
